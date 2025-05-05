@@ -160,7 +160,6 @@ ENV/
 .ropeproject
 
 # IDE
-.vscode
 
 # Windows image file caches
 Thumbs.db
@@ -324,5 +323,7 @@ ENV/
 .ropeproject
 
 # IDE
-.vscode
 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
